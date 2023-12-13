@@ -9,7 +9,9 @@ This research investigates the use of the ’cvzone’ library for hand gesture 
 
 ## Results
 We use the accuracy metric to evaluate the model.
+
 ![Accuracy](https://github.com/QuagHien/hand-gesture-recognition-using-CVZONE/blob/master/images/result.png)
+
 ## Quick Start
 Clone this project and install the required packages:
 ```
