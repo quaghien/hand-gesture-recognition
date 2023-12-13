@@ -24,3 +24,4 @@ We have a model to identify cheating in multiple-choice exams:
 python3 hand-gesture-recognition-using-CVZONE/HandGestureRecognitionusingCVZONE.py
 ```
 You can experience a simpler model of mine at [MediaPipe Studio](https://mediapipe-studio.webapps.google.com/demo/gesture_recognizer) developed by Google.
+You can read more at [Hand Gesture Recognition Using CVZONE](https://github.com/QuagHien/hand-gesture-recognition-using-CVZONE/blob/master/Paper-HandGestureRecognitionusingCVZONE.pdf)
