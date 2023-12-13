@@ -2,7 +2,9 @@
 This research investigates the use of the ’cvzone’ library for hand gesture recognition, which is an important part of improving human- computer interaction.  
 ## 21 coordinates representing the positions of hand joints 
 <img src="https://github.com/QuagHien/hand-gesture-recognition-using-CVZONE/blob/master/images/21%20features%20hands.png" alt="21 key poins in hand" width="638" height="456" />  
+
 ## Model Operation Flowchart  
+
 <img src="https://github.com/QuagHien/hand-gesture-recognition-using-CVZONE/blob/master/images/Method.png" alt="Model Work" width="704" height="398" />  
 ## Results
 We use the accuracy metric to evaluate the model.
