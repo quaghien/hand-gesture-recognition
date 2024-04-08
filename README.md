@@ -12,7 +12,7 @@ We use the accuracy metric to evaluate the model.
 
 ![Accuracy](https://github.com/QuagHien/hand-gesture-recognition-using-CVZONE/blob/master/images/result.png)
 
-**You can read more at [Hand Gesture Recognition Using CVZONE](https://github.com/QuagHien/hand-gesture-recognition-using-CVZONE/blob/master/Paper-HandGestureRecognitionusingCVZONE.pdf)**
+**You can read more at [Hand Gesture Recognition Using CVZONE]([https://camps.aptaracorp.com/ACM_PMS/PMS/ACM/ICIIT2024/18/6159aa34-f000-11ee-8182-16bb50361d1f/OUT/iciit2024-18.html#])**
 ## Quick Start
 Clone this project and install the required packages:
 ```
