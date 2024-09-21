@@ -5,7 +5,7 @@ A research paper on hand gesture recognition using the CVZONE library, an import
 
 ## Model Operation Flowchart  
 
-<img src="https://github.com/QuagHien/hand-gesture-recognition-using-CVZONE/blob/master/images/Method.png" alt="Model Work" width="704" height="398" />  
+<img src="https://github.com/QuagHien/hand-gesture-recognition-using-CVZONE/blob/master/images/Method.png"/>  
 
 ## Results
 We use the accuracy metric to evaluate the model.
