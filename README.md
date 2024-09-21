@@ -1,11 +1,11 @@
 # Hand gesture recognition
 A research paper on hand gesture recognition using the CVZONE library, an important part in improving human-computer interaction.
 ## 21 coordinates representing the positions of hand joints 
-<img src="https://github.com/QuagHien/hand-gesture-recognition-using-CVZONE/blob/master/images/21%20features%20hands.png"/>  
+<img src="https://github.com/QuagHien/hand-gesture-recognition-using-CVZONE/blob/master/images/21%20features%20hands.png" alt="21 key poins in hand" width="638" height="456" />  
 
 ## Model Operation Flowchart  
 
-<img src="https://github.com/QuagHien/hand-gesture-recognition-using-CVZONE/blob/master/images/Method.png"/>  
+<img src="https://github.com/QuagHien/hand-gesture-recognition-using-CVZONE/blob/master/images/Method.png" alt="method" width="638" height="456" />  
 
 ## Results
 We use the accuracy metric to evaluate the model.
