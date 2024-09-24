@@ -1,5 +1,5 @@
 # Hand gesture recognition
-A research paper on hand gesture recognition using the CVZONE library, an important part in improving human-computer interaction.
+A research paper on hand gesture recognition using the CVZONE library, an important part in improving human-computer interaction. A research paper on hand gesture recognition has been accepted for presentation at the 2024 9th International Conference on Intelligent Information Technology (ICIIT 2024), which will take place in Ho Chi Minh City, Vietnam, in February 2024. The paper can be accessed via the  ![DOI](https://doi.org/10.1145/3654522.3654540).
 ## 21 coordinates representing the positions of hand joints 
 <img src="https://github.com/QuagHien/hand-gesture-recognition-using-CVZONE/blob/master/images/21%20features%20hands.png" alt="21 key poins in hand" width="638" height="456" />  
 
